@@ -30,9 +30,10 @@ However, due to data privacy concerns, personally identifiable information about
 
 - Step 1 : [Data Preparation](https://github.com/suhaniarora06/Cyclistic-Case-Study-Google-Data-Analytics-Capstone-/blob/main/Data%20Preparation.sql)
 - Step 2 : [Data Cleaning](https://github.com/suhaniarora06/Cyclistic-Case-Study-Google-Data-Analytics-Capstone-/blob/main/Data%20Cleaning.sql)
-- Step 3 : [Data Exploration and Visualization](https://github.com/suhaniarora06/Cyclistic-Case-Study-Google-Data-Analytics-Capstone-/blob/main/Data%20Visualization.pdf)
-- Step 4 : [Insights](#Insights)
-- Step 5 : [Recommendations](#Recommendations)
+- Step 3 : [Data Cleaning](https://github.com/suhaniarora06/Cyclistic-Case-Study-Google-Data-Analytics-Capstone-/blob/main/Data%20Exploration.sql)
+- Step 4 : [Data Visualization](https://github.com/suhaniarora06/Cyclistic-Case-Study-Google-Data-Analytics-Capstone-/blob/main/Data%20Visualization.pdf)
+- Step 5 : [Insights](#Insights)
+- Step 6 : [Recommendations](#Recommendations)
 
 
 
