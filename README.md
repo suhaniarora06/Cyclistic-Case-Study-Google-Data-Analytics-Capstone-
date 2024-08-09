@@ -19,7 +19,7 @@ This analysis aims to develop marketing strategies to convert casual riders into
 ## Data Source
 
 Even though Cyclistic is a fictional company, for the purposes of this case study, the datasets are appropriate and
-have been made available by [Motivate International Inc.](https://motivateco.com/) under this [data agreement license](https://divvybikes.com/data-license-agreement).
+have been made available by [Motivate International Inc.](https://motivateco.com/) under this [Data Agreement License](https://divvybikes.com/data-license-agreement).
 
 The data used is representative of all bike rides from August 2023 to July 2024, reflecting the most recent information, and can be downloaded from [here](https://divvy-tripdata.s3.amazonaws.com/index.html).
 
