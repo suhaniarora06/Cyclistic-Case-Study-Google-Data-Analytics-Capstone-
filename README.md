@@ -46,5 +46,67 @@ However, due to data privacy concerns, personally identifiable information about
 
 
 # Insights Summary
+Following inferences can be drawn from the dashboard;
 
+### [1] Total Number of Riders = 5734170
+
+   Number of Riders with Annual Memberships = 3684916 (64.26 %)
+
+   Number of Casual Riders = 2049254 (35.73 %)
+
+           There are more Riders with Annual Memberships as 
+           compared to the Casual Riders.
+
+   Number of Riders using Classic Bikes = 2853768 (49.76 %)
+
+   Number of Riders using Docked Bikes = 34381 (0.6 %)
+
+   Number of Riders using Electric Bikes = 2846021 (49.63 %)
+
+           Majority of the Riders prefer Classic and Electric 
+           bikes over Docked bikes.
+        
+           
+### [2] Average Ride Length = 15.72 minutes
+
+Average Ride Length of Riders with Annual Memberships = 12 minutes
+
+Average Ride Length of Casual Riders = 21 minutes
+
+           On Average, Casual Riders ride for longer durations as
+           compared to the Riders with Annual Memberships.
+
+Average Ride Length of Riders using Classic Bikes = 18 minutes
+
+Average Ride Length of Riders using Docked Bikes = 69 minutes
+
+Average Ride Length of Riders using Docked Bikes = 12 minutes
+  
+           Even though Docked Bikes are only used by a handful of
+           Riders, the rides taken by the Docked Bike are the longest.
+
+  
+### [3] Nested Relationships between the Count and Ride Length of the Riders
+  
+Number of Riders with Annual Memberships using Classic Bikes = 1889413
+(51.27 % of the Riders with Annual Memberships)
+
+Number of Riders with Annual Memberships using Docked Bikes =
+Number of Riders with Annual Memberships using Electric Bikes =
+    
+Number of Casual Riders using Classic Bikes =
+Number of Casual Riders using Docked Bikes =
+Number of Casual Riders using Electric Bikes =  
+
+           insights
+
+Average Ride Length of Riders with Annual Memberships using Classic Bikes =    
+Average Ride Length of Riders with Annual Memberships using Docked Bikes =
+Average Ride Length of Riders with Annual Memberships using Electric Bikes =
+
+Number of Casual Riders using Classic Bikes =
+Number of Casual Riders using Docked Bikes =
+Number of Casual Riders using Electric Bikes =
+ 
+           insights 
 
