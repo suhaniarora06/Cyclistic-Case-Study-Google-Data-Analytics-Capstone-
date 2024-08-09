@@ -130,3 +130,30 @@ Average Ride Length of Casual Riders using Electric Bikes = 14 minutes
            This also explains why members might avoid using docked bikes; they likely prefer bikes that they can keep 
            for longer periods or those that offer a more consistent route.
 
+
+ ### [4] Riders Behavioural Patterns
+
+
+ Monthly trip patterns reveal that both casual and member riders follow similar trends, showing a peak in trips during the summer months and a drop in winter months. Notably, the difference between casual and 
+ member riders is smallest in July, at the height of summer.
+
+ Comparing days of the week reveals that casual riders tend to make more trips on weekends, while members experience a decrease in trips over the weekend compared to the rest of the week. This again leads to the 
+ theory that casual riders are more inclined to use bikes for recreational purposes on weekends, while members, who may use bikes exclusively for commuting, experience a drop in usage when the workweek is over.
+
+ Throughout the day, members exhibit two distinct peaks in their trip patterns : 
+ one in the early morning, between 6 a.m. and 8 a.m., aligning with the start of the workday, and another in the evening, from around 4 p.m. to 8 p.m, coinciding with their return home. In contrast, casual 
+ riders show a steady increase in trips throughout the day, reaching a high in the evening before tapering off.
+
+ Even the average ride length of the members doesn't change during the weekdays and remains stable whereas casual riders have longer durations.
+
+ Based on these insights, it is safe to conclude that casual commuters cover roughly twice the distance of members, but they do so less frequently. 
+
+
+
+
+
+
+
+
+
+ 
