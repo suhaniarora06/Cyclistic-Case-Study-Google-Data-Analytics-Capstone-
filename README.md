@@ -115,8 +115,10 @@ Average Ride Length of Riders with Annual Memberships using Classic Bikes = 13 m
 
 Average Ride Length of Riders with Annual Memberships using Docked Bikes = 0 minutes
 
-Average Ride Length of Riders with Annual Memberships using Electric Bikes = 11 minutes
+Average Ride Length of Riders with Annual Memberships using Electric Bikes = 11 minutes<br>
 
+
+<br/>
 Average Ride Length of Casual Riders using Classic Bikes = 27 minutes
 
 Average Ride Length of Casual Riders using Docked Bikes = 69 minutes
