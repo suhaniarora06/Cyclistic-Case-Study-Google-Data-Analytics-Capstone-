@@ -73,8 +73,9 @@ Average Ride Length of Riders with Annual Memberships = 12 minutes
 
 Average Ride Length of Casual Riders = 21 minutes
 
-           On Average, Casual Riders ride for longer durations as
-           compared to the Riders with Annual Memberships.
+           On average, Casual Riders ride for more extended periods compared 
+           to those with Annual Memberships, which suggests that Casual Riders 
+           are likely to take longer rides, possibly for leisure or one-day trips.
 
 Average Ride Length of Riders using Classic Bikes = 18 minutes
 
@@ -91,21 +92,35 @@ Average Ride Length of Riders using Docked Bikes = 12 minutes
 Number of Riders with Annual Memberships using Classic Bikes = 1889413 *(51.27 % of the Riders with Annual Memberships)*
 
 Number of Riders with Annual Memberships using Docked Bikes = 0
+
 Number of Riders with Annual Memberships using Electric Bikes = 1795503 *(48.72 % of the Riders with Annual Memberships)*
-    
-Number of Casual Riders using Classic Bikes =
-Number of Casual Riders using Docked Bikes =
-Number of Casual Riders using Electric Bikes =  
 
-           insights
+           Here, we observe that none of the riders with 
+           Annual Memberships use Docked Bikes indicating 
+           that they are exclusively used by Casual Riders.
+           
+           Furthermore, among Classic and Electric Bikes, the riders 
+           show a slight preference for Classic Bikes over Electric Bikes.
 
-Average Ride Length of Riders with Annual Memberships using Classic Bikes =    
-Average Ride Length of Riders with Annual Memberships using Docked Bikes =
-Average Ride Length of Riders with Annual Memberships using Electric Bikes =
+           
+Number of Casual Riders using Classic Bikes = 964355 *(47.05 % of the Casual Riders)*
+Number of Casual Riders using Docked Bikes = 34381 *(1.67 % of the Casual Riders)*
+Number of Casual Riders using Electric Bikes =  1050518 *(51.26 % of the Casual Riders)*
 
-Number of Casual Riders using Classic Bikes =
-Number of Casual Riders using Docked Bikes =
-Number of Casual Riders using Electric Bikes =
+
+
+Average Ride Length of Riders with Annual Memberships using Classic Bikes = 13 minutes  
+Average Ride Length of Riders with Annual Memberships using Docked Bikes = 0 minutes
+Average Ride Length of Riders with Annual Memberships using Electric Bikes = 11 minutes
+
+Average Ride Length of Casual Riders using Classic Bikes = 27 minutes
+Average Ride Length of Casual Riders using Docked Bikes = 69 minutes
+Average Ride Length of Casual Riders using Electric Bikes = 14 minutes
  
-           insights 
+           We observe from the above metrics that ride lengths for members are more consistent 
+           and shorter compared to those of casual riders. 
+           This suggests that casual riders use bikes for recreation and short excursions, 
+           while members are more likely to primarily use them for commuting fixed distances, such as to work or school.
+           This also explains why members might avoid using docked bikes; they likely prefer bikes that they can keep 
+           for longer periods or those that offer a more consistent route.
 
