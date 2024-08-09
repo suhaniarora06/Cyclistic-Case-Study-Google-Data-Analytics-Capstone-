@@ -107,7 +107,7 @@ Number of Casual Riders using Classic Bikes = 964355 *(47.05 % of the Casual Rid
 
 Number of Casual Riders using Docked Bikes = 34381 *(1.67 % of the Casual Riders)*
 
-Number of Casual Riders using Electric Bikes =  1050518 *(51.26 % of the Casual Riders)*
+Number of Casual Riders using Electric Bikes =  1050518 *(51.26 % of the Casual Riders)* <br>
 
 
 
