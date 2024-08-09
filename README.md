@@ -104,17 +104,23 @@ Number of Riders with Annual Memberships using Electric Bikes = 1795503 *(48.72 
 
            
 Number of Casual Riders using Classic Bikes = 964355 *(47.05 % of the Casual Riders)*
+
 Number of Casual Riders using Docked Bikes = 34381 *(1.67 % of the Casual Riders)*
+
 Number of Casual Riders using Electric Bikes =  1050518 *(51.26 % of the Casual Riders)*
 
 
 
-Average Ride Length of Riders with Annual Memberships using Classic Bikes = 13 minutes  
+Average Ride Length of Riders with Annual Memberships using Classic Bikes = 13 minutes
+
 Average Ride Length of Riders with Annual Memberships using Docked Bikes = 0 minutes
+
 Average Ride Length of Riders with Annual Memberships using Electric Bikes = 11 minutes
 
 Average Ride Length of Casual Riders using Classic Bikes = 27 minutes
+
 Average Ride Length of Casual Riders using Docked Bikes = 69 minutes
+
 Average Ride Length of Casual Riders using Electric Bikes = 14 minutes
  
            We observe from the above metrics that ride lengths for members are more consistent 
