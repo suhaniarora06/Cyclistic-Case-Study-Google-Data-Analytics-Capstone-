@@ -44,8 +44,7 @@ However, due to data privacy concerns, personally identifiable information about
 
 ![Dashboard_upload2](https://github.com/user-attachments/assets/83fbc479-1be7-49db-b639-86e922f60952)
 
-![Dashboard_upload3](https://github.com/user-attachments/assets/0dc17d27-8c26-481c-bc92-0e9641e90139)
 
-# Insights
+# Insights Summary
 
 
