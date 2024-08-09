@@ -88,8 +88,8 @@ Average Ride Length of Riders using Docked Bikes = 12 minutes
   
 ### [3] Nested Relationships between the Count and Ride Length of the Riders
   
-Number of Riders with Annual Memberships using Classic Bikes = 1889413
-(51.27 % of the Riders with Annual Memberships)
+Number of Riders with Annual Memberships using Classic Bikes = 1889413 (51.27 % of the Riders with Annual Memberships)
+
 Number of Riders with Annual Memberships using Docked Bikes =
 Number of Riders with Annual Memberships using Electric Bikes =
     
