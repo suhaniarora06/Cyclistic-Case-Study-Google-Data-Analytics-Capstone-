@@ -162,7 +162,7 @@ Here are some marketing strategies that could effectively convert casual riders 
 
 
 
-Using digital media to infuence casual riders to become members
+Using digital media to infuence casual riders to become members:
   1. Sending personalized emails to casual riders featuring exclusive offers, discounts, and trial memberships, along with notifications about upcoming events they might enjoy, can effectively engage and entice 
      them to consider membership.
   2. Partnering with local influencers and cycling enthusiasts to share their genuine experiences and reviews can create authentic, relatable content that highlights the benefits of membership.
