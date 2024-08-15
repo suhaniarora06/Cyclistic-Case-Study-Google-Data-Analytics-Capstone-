@@ -152,7 +152,19 @@ Average Ride Length of Casual Riders using Electric Bikes = 14 minutes
 
 
 
+# Recommendations
 
+Here are some marketing strategies that could effectively convert casual riders into annual members:
+
+1. Cyclistic could design a tailored membership plan specifically for casual riders, offering exclusive benefits for the summer and spring months.
+2. Introducing trial membership periods and special discounts for first-time users could help address the concerns of riders who are hesitant or skeptical about the membership plans.
+3. Cyclistic could launch targeted marketing campaigns in popular tourist areas to attract casual riders who work nearby, effectively tapping into their existing commuting routes and interests.
+
+-  **Using digital media to infuence casual riders to become members**
+  1. Sending personalized emails to casual riders featuring exclusive offers, discounts, and trial memberships, along with notifications about upcoming events they might enjoy, can effectively engage and entice 
+     them to consider membership.
+  2. Partnering with local influencers and cycling enthusiasts to share their genuine experiences and reviews can create authentic, relatable content that highlights the benefits of membership.
+  3. Create community groups on online forums or social media where riders can connect, share their personal stories and experiences, and build a sense of belonging.
 
 
 
