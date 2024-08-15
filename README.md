@@ -158,10 +158,10 @@ Here are some marketing strategies that could effectively convert casual riders 
 
 1. Cyclistic could design a tailored membership plan specifically for casual riders, offering exclusive benefits for the summer and spring months.
 2. Introducing trial membership periods and special discounts for first-time users could help address the concerns of riders who are hesitant or skeptical about the membership plans.
-3. Cyclistic could launch targeted marketing campaigns in popular tourist areas to attract casual riders who work nearby, effectively tapping into their existing commuting routes and interests.<br>
+3. Cyclistic could launch targeted marketing campaigns in popular tourist areas to attract casual riders who work nearby, effectively tapping into their existing commuting routes and interests.
 
 
-</br>
+
 Using digital media to infuence casual riders to become members
   1. Sending personalized emails to casual riders featuring exclusive offers, discounts, and trial memberships, along with notifications about upcoming events they might enjoy, can effectively engage and entice 
      them to consider membership.
